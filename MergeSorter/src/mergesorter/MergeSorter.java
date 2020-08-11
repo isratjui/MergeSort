@@ -165,8 +165,6 @@ private  int[] merge(int[] left, int[] right) {
         resultArr[r++] = right[j++];
     }        
 
-
-    //System.out.println("resultArr "+resultArr);
     return resultArr;
 }
 
