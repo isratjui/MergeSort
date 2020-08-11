@@ -41,7 +41,7 @@ public void run() {
 public static void main(String[] args) {
    //int arr[] ={3,6,4,2,1,10,7} ;
 //  int arr=new int[6];
-   
+   //input from user
  Scanner s=new Scanner(System.in);
 
     System.out.println("enter number of elements");
